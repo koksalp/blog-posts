@@ -9,3 +9,4 @@ When app is opened, blog posts are displayed in the main screen where users can 
 ## How to test 
 - run `npm install` to install dependencies 
 - run `npm start` to start a local development server  
+or you can just test the app using the apk file (blog-post.apk) 
